@@ -12,5 +12,5 @@ export default {
     hot: true
   }
 ,
-  base: '/imoment/'
+  base: '/<REPO>/'
 }
