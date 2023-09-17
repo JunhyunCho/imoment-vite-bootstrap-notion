@@ -11,6 +11,4 @@ export default {
     port: 8080,
     hot: true
   }
-,
-  base: '/<REPO>/'
 }
